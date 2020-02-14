@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ======[ LIGHT THEME ]================================================================= -->
+
+    <color name="colorPrimary">#880000</color>
+    <color name="colorPrimaryDark">#550000</color>
+    <color name="colorPrimaryLight">#B51111</color>
+    <color name="textColorPrimary">#111111</color>
+    <color name="textColorCardTitle">#272727</color>
+    <color name="textColorSecondary">#888888</color>
+    <color name="colorBackground">#e8e8e8</color>
+
+    <color name="colorRecControlBackground">#c9c9c9</color>
+    <color name="textColorRecControlPrimary">#111111</color>
+    <color name="textColorRecControlSecondary">#555555</color>
+    <color name="textColorRecControlPrimary_Active">#ffffff</color>
+    <color name="textColorRecControlSecondary_Active">#cccccc</color>
+
+    <color name="colorCardBackground_Title">#ffffff</color>
+    <color name="colorCardBackground_Line">#ededed</color>
+    <color name="colorCardBackground_Data">#fbfbfb</color>
+    <color name="colorCardBackground">#f4f4f4</color>
+    <color name="colorCardBackground_Selected">#4bff7777</color>
+
+    <color name="colorAccent">#ffffff</color>
+    <color name="preference_accent">#b51111</color>
+    <color name="preference_fallback_accent_color" tools:override="true">#b51111</color>
+
+
+
+
+    <!-- ======[ SHARED COLORS ]=============================================================== -->
+
+    <color name="colorThumbnailLineColor">#c9c9c9</color> <!-- DO NOT CHANGE THIS COLOR! -->
+
+    <color name="colorRoundedCornerBottom_Dark">#161616</color>
+    <color name="colorRoundedCornerTop_Dark">#202020</color>
+    <color name="colorRoundedCornerBorder_Dark">#707070</color>
+
+    <color name="colorRoundedCornerBottom_Light">#eeeeee</color>
+    <color name="colorRoundedCornerTop_Light">#ffffff</color>
+    <color name="colorRoundedCornerBorder_Light">#bfbfbf</color>
+
+</resources>

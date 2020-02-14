@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+
+    <style name="MyPreferenceCategory" parent="@style/Preference.Category.Material">
+        <item name="android:textColor">@color/preference_accent</item>
+    </style>
+
+    <style name="MyPreferenceThemeOverlay" parent="@style/PreferenceThemeOverlay.v14.Material">
+        <item name="preferenceCategoryStyle">@style/MyPreferenceCategory</item>
+        <item name="colorAccent">@color/preference_accent</item>
+        <item name="divider">@color/colorAccent</item>
+    </style>
+
+</resources>

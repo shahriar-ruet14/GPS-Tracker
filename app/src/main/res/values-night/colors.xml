@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ======[ DARK THEME ]================================================================== -->
+
+    <color name="colorPrimary">#880000</color>
+    <color name="colorPrimaryDark">#550000</color>
+    <color name="colorPrimaryLight">#b51111</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="textColorCardTitle">#d7d7d7</color>
+    <color name="textColorSecondary">#888888</color>
+    <color name="colorBackground">#111111</color>
+
+    <color name="colorRecControlBackground">#282828</color>
+    <color name="textColorRecControlPrimary">#ffffff</color>
+    <color name="textColorRecControlSecondary">#cccccc</color>
+    <color name="textColorRecControlPrimary_Active">#ffffff</color>
+    <color name="textColorRecControlSecondary_Active">#cccccc</color>
+
+    <color name="colorCardBackground_Title">#3d3d3d</color>
+    <color name="colorCardBackground_Line">#2b2b2b</color>
+    <color name="colorCardBackground_Data">#333333</color>
+    <color name="colorCardBackground">#2b2b2b</color>
+    <color name="colorCardBackground_Selected">#42ff4f4f</color>
+
+    <color name="colorAccent">#dddddd</color>
+    <color name="preference_accent">#ca2222</color>
+    <color name="preference_fallback_accent_color" tools:override="true">#ca2222</color>
+
+</resources>
